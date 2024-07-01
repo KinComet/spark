@@ -3,7 +3,7 @@
 		alt="spark"
 		src="https://i.imgur.com/ykHn9vx.png">
 </h1>
-
+ 
 <h3 align="center">
   spark is a performance profiler for Minecraft clients, servers and proxies.
 </h3>
